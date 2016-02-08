@@ -1,7 +1,7 @@
 {
   "title": "One-Click Translate Page",
   "name": "one-click-translate-page-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic Mozilla Firefox AddOn. Press the Translate button and the page will open in Google Translate in your chosen language.",
   "main": "index.js",
   "author": "Ros Mc Mahon (http://rosmcmahon.com)",
